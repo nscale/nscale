@@ -1,0 +1,38 @@
+{
+  "name": "@nscale/cli",
+  "version": "0.1.0-rc1",
+  "description": "cli for nscale cloud",
+  "main": "./lib/nscale.js",
+  "scripts": {
+    "start": "node ./lib/nscale.js",
+    "test": "node './test/basic.test.js'"
+  },
+  "bin": {
+    "nscale": "./lib/nscale.js",
+    "ns": "./lib/nscale.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "cli-table": "^0.3.1",
+    "colors": "^1.3.3",
+    "commander": "^2.19.0",
+    "copy-template-dir": "^1.4.0",
+    "death": "^1.1.0",
+    "download-git-repo": "^1.1.0",
+    "fs-extra": "^7.0.1",
+    "fuge-config": "^2.0.2",
+    "fuge-dns": "^2.0.0",
+    "fuge-runner": "^2.0.1",
+    "inquirer": "^6.2.2",
+    "js-yaml": "^3.12.2",
+    "lodash": "^4.17.11",
+    "mkdirp": "^0.5.1",
+    "shelljs": "^0.8.3",
+    "tpmorp": "^1.0.5"
+  },
+  "devDependencies": {
+    "async": "^2.6.2"
+  }
+}
