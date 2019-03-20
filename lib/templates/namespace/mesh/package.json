@@ -1,0 +1,17 @@
+{
+  "name": "mesh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "base.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "seneca": "^3.8.4",
+    "seneca-balance-client": "^0.7.0",
+    "seneca-mesh": "^1.0.0",
+    "seneca-repl": "^1.2.0"
+  }
+}
