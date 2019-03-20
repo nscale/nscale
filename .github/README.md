@@ -1,3 +1,5 @@
+** THIS IS A WIP. DO NOT USE IN PRODUCTION **
+
 # Command line tool for nscale
 
 [todo]
