@@ -1,7 +1,7 @@
 {
   "name": "nscale",
   "description": "The command-line tool for creating and publishing services to nscale",
-  "version": "1.0.0-rc",
+  "version": "1.0.0-alpha",
   "main": "./lib/nscale.js",
   "scripts": {
     "start": "node ./lib/nscale.js",
