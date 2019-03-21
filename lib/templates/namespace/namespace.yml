@@ -15,3 +15,11 @@ fuge_global:
     - '**/*.log'
   auto_generate_environment: true
   auto_port_start: 10000
+base:
+  type: process
+  path: ./mesh/base
+  run: node base.js
+repl:
+  type: process
+  path: ./mesh/repl
+  run: node repl.js
