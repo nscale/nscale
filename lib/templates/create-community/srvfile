@@ -1,0 +1,4 @@
+module.exports = config => {
+  // customize service container here
+  return config
+}
