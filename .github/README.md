@@ -6,7 +6,7 @@
 
 ## Usage
 
-Nscale has a concept of a namespace. This is your system's ecosystem. Remember, your not building an application your building a system of components that work together to do things you need.
+Nscale has a concept of a namespace. This is your system's ecosystem. Remember, you're not building an application you're building a system of components that work together to do things you need.
 
 With that, lets create a namespace.
 
