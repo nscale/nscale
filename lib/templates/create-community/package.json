@@ -7,7 +7,7 @@
     "isolated": "usrv --iso"
   },
   "dependencies": {
-    "usrv": "0.1.0-alpha"
+    "usrv": "0.1.0-alpha.2"
   },
   "devDependencies": {}
 }
