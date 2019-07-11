@@ -3,11 +3,13 @@
   "version": "{{version}}",
   "main": "{{name}}.js",
   "scripts": {
-    "start": "usrv",
-    "isolated": "usrv --iso"
+    "start": "usrv-dev",
+    "isolated": "usrv-dev --iso"
   },
   "dependencies": {
-    "usrv": "0.1.0-alpha.2"
+    "usrv": "^0.2.4"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "usrv-dev": "^0.1.1"
+  }
 }
