@@ -37,6 +37,6 @@
     "tpmorp": "^1.0.5"
   },
   "devDependencies": {
-    "async": "^2.6.2"
+    "async": "^3.2.2"
   }
 }
